@@ -1,4 +1,4 @@
-# macOS Alarm Clock CLI
+# Alarm Clock CLI
 
 A robust, dependency-light Python Command-Line Interface (CLI) alarm clock application built specifically for macOS. The application is split into a **Client (CLI)** and a **Background Daemon** which communicate asynchronously through a locked state file.
 
